@@ -1,4 +1,4 @@
-## Learn Terraform Provisioningd with Packer
+## Terraform Provisioningd with Packer
 Companion code repository for learning to provision Terraform instances with Packer
 
 ### What is Pakcer
